@@ -208,7 +208,7 @@
         <reuselanguageinvoker>true</reuselanguageinvoker>
         <debugging>true</debugging>
     </extension>
-</addon><addon id="plugin.video.zeltorix.dzen" name="Dzen Видео (тест)" version="0.0.1" provider-name="Zeltorix">
+</addon><addon id="plugin.video.zeltorix.dzen" name="Dzen Видео (тест)" version="0.0.1.1" provider-name="Zeltorix">
     <requires>
         <import addon="script.module.zeltorix.utility" version="0.0.252" />
     </requires>
